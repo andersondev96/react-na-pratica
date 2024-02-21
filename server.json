@@ -1,0 +1,724 @@
+{
+    "tags": [
+        {
+            "title": "Redis",
+            "amountOfVideos": 76
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 49
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 21
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 88
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 12
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 33
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 62
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 55
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 7
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 44
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 99
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 83
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 41
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 18
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 71
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 90
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 36
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 69
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 23
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 57
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 82
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 4
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 67
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 29
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 52
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 15
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 78
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 31
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 64
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 26
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 76
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 49
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 21
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 88
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 12
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 33
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 62
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 55
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 7
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 44
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 99
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 83
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 41
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 18
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 71
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 90
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 36
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 69
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 23
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 57
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 82
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 4
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 67
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 29
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 52
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 15
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 78
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 31
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 64
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 26
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 76
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 49
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 21
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 88
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 12
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 33
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 62
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 55
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 7
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 44
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 99
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 83
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 41
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 18
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 71
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 90
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 36
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 69
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 23
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 57
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 82
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 4
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 67
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 29
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 52
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 15
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 78
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 31
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 64
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 26
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 76
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 49
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 21
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 88
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 12
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 33
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 62
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 55
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 7
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 44
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 99
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 83
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 41
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 18
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 71
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 90
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 36
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 69
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 23
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 57
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 82
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 4
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 67
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 29
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 52
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 15
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 78
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 31
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 64
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 26
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 76
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 49
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 21
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 88
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 12
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 33
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 62
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 55
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 7
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 44
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 99
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 83
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 41
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 18
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 71
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 90
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 36
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 69
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 23
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 57
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 82
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 4
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 67
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 29
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 52
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 15
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 78
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 31
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 64
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 26
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 76
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 49
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 21
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 88
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 12
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 33
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 62
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 55
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 7
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 44
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 99
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 83
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 41
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 18
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 71
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 90
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 36
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 69
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 23
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 57
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 82
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 4
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 67
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 29
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 52
+        },
+        {
+            "title": "Vue",
+            "amountOfVideos": 15
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 78
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 31
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 64
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 26
+        }
+    ]
+}
